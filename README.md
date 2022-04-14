@@ -1,2 +1,2 @@
 Ćwiczenia z NPG
-Wprowadzanie konfliktu
+Wrowadzanie zmian
